@@ -1,4 +1,4 @@
-# Lazyvim 
+# Neovim Lazyvim Setup
 
 ### Files
 ```shell
@@ -7,7 +7,7 @@
 
 ### Just run this command to clone this into the required config 
 ```shell
-git clone https://github.com/vishmaycode/lazyvim-setup.git ~/.config/nvim
+git clone https://github.com/vishmaycode/neovim-lazyvim.git ~/.config/nvim
 ```
 
 ### reference 
