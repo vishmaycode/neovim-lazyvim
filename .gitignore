@@ -1,0 +1,15 @@
+*.log
+/.repro
+/.tests
+/build
+/debug
+/doc/tags
+foo.*
+node_modules
+tt.*
+data
+tags
+test.sh
+.luarc.json
+nvim
+spell/
